@@ -10,7 +10,7 @@ Welcome to my repository of Tensorflow and pytorch frameworks! Explore a variety
 
 ## Usage
 
-Clone this repository and use the models for your machine learning projects. Ensure you have the required dependencies installed.
+Clone this repository and use the models for your machine learning projects. Ensure you have the required dependencies installed and you can go to kaggle and download the required data too.
 
 For example, run any model you want:
 
