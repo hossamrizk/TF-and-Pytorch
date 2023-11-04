@@ -1,5 +1,5 @@
 # TF-and-Pytorch
-Welcome to my repository of deep learning models! Explore a variety of models for tasks like image classification, transfer learning, linear regression, and logistic regression.
+Welcome to my repository of Tensorflow and pytorch frameworks! Explore a variety of models for tasks like image classification, transfer learning, linear regression, and logistic regression.
 
 ## Models Included
 
@@ -12,7 +12,7 @@ Welcome to my repository of deep learning models! Explore a variety of models fo
 
 Clone this repository and use the models for your machine learning projects. Ensure you have the required dependencies installed.
 
-For example, run a CNN model:
+For example, run any model you want:
 
 ```bash
-python cnn_model.py
+python 'change this to the model name'.'py or ipynb'
